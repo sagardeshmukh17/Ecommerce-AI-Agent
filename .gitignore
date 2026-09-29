@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Local database files (optional, agar sirf demo ke liye rakhe ho)
+*.db
+
+# Logs
+*.log
